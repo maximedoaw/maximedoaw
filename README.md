@@ -11,7 +11,7 @@
 
 - 👨‍💻 Tous mes projets sont disponibles sur [[https://vercel.com/maximedoaw/portfolio](https://vercel.com/maximedoaw/portfolio)](https://portfoliomaximedoaw-xi-smoky-84.vercel.app/)
 
-- 💬 Demandez moi à propos de **React.js,Three.js,Next.js,Tensorflow**
+- 💬 Demandez moi à propos de **React.js,Three.js,Next.js**
 
 ### Articles de blog
 <!-- BLOG-POST-LIST:START -->
