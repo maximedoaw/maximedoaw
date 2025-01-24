@@ -9,7 +9,8 @@
 
 - 🤝 Je' Je cherche de l'aide avec **javascript**
 
-- 👨‍💻 Tous mes projets sont disponibles sur [[https://vercel.com/maximedoaw/portfolio](https://vercel.com/maximedoaw/portfolio)](https://portfoliomaximedoaw-xi-smoky-84.vercel.app/)
+- 👨‍💻 Tous mes projets sont disponibles sur [[https://maximedoaw.vercel.app)](https://maximedoaw.vercel.app
+  )
 
 - 💬 Demandez moi à propos de **React.js,Three.js,Next.js**
 
