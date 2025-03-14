@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, je m'appelle Maxime Doaw</h1>
-<h3 align="center">Un développeur frontend passionné du Cameroun</h3>
+<h3 align="center">Un développeur FullStack passionné du Cameroun</h3>
 
 <p align="left"> <a href= "https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maximedoaw" alt="maximedoaw" / ></a> </p>
 
